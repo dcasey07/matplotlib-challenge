@@ -5,7 +5,7 @@ The goal of this challenge was to analyze and create visualizations that display
 
 ## Attributions
 
-I used the following resource to learn more about using .index.isin() to drop a duplicate value from the dataframe:
+I used the following resource to learn more about using .index.isin() to drop a duplicate value from the dataframe without retaining any of that value:
 https://stackoverflow.com/questions/14661701/how-to-drop-a-list-of-rows-from-pandas-dataframe
 
 I used the following resource to learn more about MultiIndex in order to more about how to create an index on a separate level:
